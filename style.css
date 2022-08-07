@@ -1,0 +1,128 @@
+html{
+    background-color:black ;
+    width:100vw ;
+    height:100vh ;
+}
+.welcomboard{
+    background-color:white ;
+    width:430px ;
+    height:100px ;
+    padding: 10px;
+    border-radius:15px ;
+    border:10px red solid ;
+    position: absolute;
+    left:530px ;
+    box-shadow:5px 5px 2px purple ;
+}
+.border{
+    width:97vw ;
+    height:90vh ;
+    border:5px green solid ;
+}
+.flex-container{
+    display: flex;
+    flex:row ;
+    justify-content:space-evenly ;
+}
+.flex-itemA{
+    background-color:white ;
+    width:220px ;
+    height:230px ;
+    border-radius:20px ;
+    box-shadow:5px 5px 2px purple ;
+    border:7px red solid ;
+    position: absolute;
+    left:23px ;
+    top: 200px;
+}
+.flex-itemB{
+    background-color:white ;
+    width:220px ;
+    height:230px ;
+    border-radius:20px ;
+    box-shadow:5px 5px 2px purple ;
+    border:7px red solid ;
+    position: absolute;
+    left:1200px ;
+    top: 515px;
+
+}
+.flex-container1{
+    display: flex;
+    flex:column ;
+    justify-content:space-evenly ;
+}
+.flex-itemC{
+    background-color:white ;
+    width:220px ;
+    height:230px ;
+   border-radius:20px ; 
+   box-shadow:5px 5px 2px purple ;
+   border:7px red solid ;
+   position: absolute;
+   left:23px ;
+   top:515px ;
+}
+.flex-itemD{
+    background-color:white ;
+    width:220px ;
+    height:230px ;
+    border-radius:20px ;
+    box-shadow:5px 5px 2px purple ;
+    border:7px red solid ;
+    position: absolute;
+    right:90px ;
+    bottom: 280px;
+}
+.float{
+    width: 550px;
+    height:85px ;
+    background-color:greenyellow ;
+    border-radius:15px ;
+border:7px red solid ;
+box-shadow:5px 5px 2px purple ;
+position: fixed;
+top:500px ;
+left:400px ;
+}
+.text-shadow{
+    text-shadow:1px 1px 1px ;
+}
+.text-shadow2{
+    text-shadow:1px 1px 1px ;
+}
+.text-shadow3{
+    text-shadow:1px 1px 1px ;
+}
+.box{
+    width:650px ;
+    height:600px ;
+    border:7px purple solid ;
+   background-color:green ; 
+   position: relative;
+   left:450px ;
+   top:630px ;
+   
+}
+.test1{
+    width:310px ;
+    height:300px ;
+    background-color:wheat ;
+    position: absolute;
+    left:465px ;
+}
+.test2{
+    width:310px ;
+    height:300px ;
+    background-color:wheat ;
+    position: absolute;
+    right: 420px;
+}
+.test3{
+    width:655px ;
+    height:215px ;
+    background-color: wheat;
+    position: relative;
+    top:330px ;
+    left: 450px;
+}
